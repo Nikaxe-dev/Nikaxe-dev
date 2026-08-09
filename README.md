@@ -1,4 +1,4 @@
-![Profile Picture](https://avatars.githubusercontent.com/u/176202262?s=400&u=77e7fa8432ec55d537f2bdcc81634d18d37c8cd8&v=4)
+![NIKAXE](/NIKAXE_title.png)
 
 ## Hi there 👋
 My name is nikaxe. I'm a web/software/game developer from New Zealand.
