@@ -16,7 +16,7 @@ Although I had been using Microsoft Windows all my life previously.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikaxe.public@gmail.com)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Nikaxe)
 [![Roblox](https://img.shields.io/badge/Roblox-%230a0b0b.svg?style=for-the-badge&logo=Roblox&logoColor=white)](https://www.roblox.com/users/307718159/profile)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://nikaxe.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nikaxe.itch.io/)
 
 ## 🔭 I’m currently working on...
 ![Fling And Fight](/FaFTitleBanner.png)
