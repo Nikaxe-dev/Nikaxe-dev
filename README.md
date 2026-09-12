@@ -19,7 +19,7 @@ Although I had been using Microsoft Windows all my life previously.
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nikaxe.itch.io/)
 
 ## 🔭 I’m currently working on...
-![Fling And Fight](/FaFTitleBanner.png)
+![Fling And Fight](/FaF_Title.png)
 
 Fling And Fight, a multiplayer mayhem filled physics game where you go around worlds completing 'events'. The central mechanic is a tool known as the grabline, which allows you to grab and fling objects & players from a certain range, similar to the physics gun in gmod.
 
