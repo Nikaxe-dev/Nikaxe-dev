@@ -3,11 +3,8 @@
 ## Hi there 👋
 My name is nikaxe. I'm a web/software/game developer from New Zealand.
 
-I use
 
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white)
-
+I use CachyOS with Niri on my main desktop pc, alongside Arch with Hyprland on my laptop.
 Although I had been using Microsoft Windows all my life previously.
 
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://nikaxe.is-a.dev)
