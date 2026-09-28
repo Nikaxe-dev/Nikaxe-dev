@@ -18,7 +18,7 @@ Although I had been using Microsoft Windows all my life previously.
 ## 🔭 I’m currently working on...
 ![Fling And Fight](/FaF_Title.png)
 
-Fling And Fight, a multiplayer mayhem filled physics game where you go around worlds completing 'events'. The central mechanic is a tool known as the grabline, which allows you to grab and fling objects & players from a certain range, similar to the physics gun in gmod.
+Fling And Fight, an open source multiplayer mayhem filled physics game. The game centers around a mechanic known as a grabline, which allows you to grab and throw objects from a certain range in a similar fashion to the gmod physics gun.
 
 It started out as a Roblox game, but when their new publishing requirements were announced it was released around 6 months early in a very unfinished state. Now I am remaking it in Godot, where the only limits are of my imagination.
 
