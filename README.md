@@ -1,4 +1,4 @@
-![NIKAXE](/NIKAXE_title.png)
+![NIKAXE](/Banner.png)
 
 ## Hi there 👋
 My name is nikaxe. I'm a web/software/game developer from New Zealand.
@@ -16,7 +16,7 @@ Although I had been using Microsoft Windows all my life previously.
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://nikaxe.itch.io/)
 
 ## 🔭 I’m currently working on...
-![Fling And Fight](/FaF_Title.png)
+![Fling And Fight](https://raw.githubusercontent.com/Nikaxe-Dev/Fling-And-Fight/main/Banner.png)
 
 Fling And Fight, an open source multiplayer mayhem filled physics game. The game centers around a mechanic known as a grabline, which allows you to grab and throw objects from a certain range in a similar fashion to the gmod physics gun.
 
